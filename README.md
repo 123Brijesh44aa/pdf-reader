@@ -38,4 +38,4 @@ This project is a PDF Reader application built using Jetpack Compose and Kotlin.
 ![image](https://github.com/user-attachments/assets/b2f02787-e322-4c0e-8998-acc3110c28f0)
 
 
-[Philipp Lackner YouTube Channel](https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ)
+[Philipp Lackner YouTube Channel](https://www.youtube.com/@PhilippLackner)
